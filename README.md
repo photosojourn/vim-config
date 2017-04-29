@@ -3,7 +3,7 @@
 ## Information
 
 This is a VIM setup using pathogen which provides a good working environment for working mainly with 
-Bash, Puppet and Ruby using Git.
+Bash, Puppet and Ruby using Git as well as support for Hashicorp tools like Terraform and Vagrant.
 
 ## Requirements
 
